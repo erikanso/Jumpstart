@@ -5,3 +5,5 @@ To do list:
 - Fix alignment for nav bar (Step 6 & 7)
 - Color nav active
 - Check * font-family application
+- Figure out column width, responsive sizes, and alignment
+- Establish color definition of "blue"
