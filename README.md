@@ -6,4 +6,5 @@ To do list:
 - Color nav active
 - Check * font-family application
 - Figure out column width, responsive sizes, and alignment
+- Clip image overflow
 - Establish color definition of "blue"
